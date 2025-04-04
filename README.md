@@ -1,5 +1,5 @@
 # 🏡 Bangalore House Price Prediction (ML + Deep Learning)
-<img src="https://github.com/goldstring/banglore_house_price_prediction_regression_using_ann_end_to_end_deeep-machine_learning/blob/main/output/output.png?raw=true"/>
+<img src="https://github.com/goldstring/banglore_house_price_prediction_regression_using_ann_end_to_end_deeep-machine_learning/blob/main/24487812_6961783.jpg?raw=true"/>
 ## 📌 Problem Statement
 
 The goal is to **predict housing prices** in Bangalore based on various features such as location, number of bedrooms, total square feet, and more. Accurate price prediction is crucial for buyers, sellers, and real estate platforms to make informed decisions.
@@ -135,6 +135,7 @@ The app will start at `http://127.0.0.1:5000/`
 - Input: Location, Square Feet, BHK, Bath  
 - Output: **Predicted Price** in lakhs  
 - UI: Simple HTML form with dropdowns and inputs
+<img src="https://github.com/goldstring/banglore_house_price_prediction_regression_using_ann_end_to_end_deeep-machine_learning/blob/main/output/output.png?raw=true"/>
 
 ---
 
